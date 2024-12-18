@@ -5,30 +5,30 @@ This repository contains the manual testing plan, scenarios, and execution resul
 ## Objective ##
 ### The goal of this testing is to ensure: ###
 
-1.The functionality of the Sign Up and Login workflows is robust and error-free.
-2.The user experience (UX) is intuitive and seamless.
-3.Security measures are implemented to protect user data.
-4.The app performs consistently across various platforms and environments.
+1.The functionality of the Sign Up and Login workflows is robust and error-free. .
+2.The user experience (UX) is intuitive and seamless. .
+3.Security measures are implemented to protect user data. .
+4.The app performs consistently across various platforms and environments. .
 ## Test Plan ##
 ### Scope ###
 Features Tested:
-Sign Up: Account creation for new users.
-Login: Authentication for existing users.
-Platforms: Android, iOS
-Environments: Wi-Fi, Mobile data.
+Sign Up: Account creation for new users. .
+Login: Authentication for existing users. .
+Platforms: Android, iOS. .
+Environments: Wi-Fi, Mobile data. .
 
 ## Test Scenarios ##
 ### Sign Up ###
-Successful registration with valid data.
-Validation for required fields, invalid formats, weak passwords, and duplicate accounts.
-OTP/pin verification testing.
+Successful registration with valid data. .
+Validation for required fields, invalid formats, weak passwords, and duplicate accounts. .
+OTP/pin verification testing. .
 
 ### Login ###
-Successful login with correct credentials.
-Handling of invalid credentials, unregistered accounts, and password recovery workflows.
-Logout functionality and session management.
-Testing under poor network conditions.
-
+Successful login with correct credentials. .
+Handling of invalid credentials, unregistered accounts, and password recovery workflows. .
+Logout functionality and session management. .
+Testing under poor network conditions. .
+ 
 ## Test Data ##
 Valid Data: Examples of acceptable Mobile Number, Pin numbers, and passwords.
 Invalid Data: Incorrect Mobile number, weak passwords, and unregistered credentials.
