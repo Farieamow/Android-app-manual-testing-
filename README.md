@@ -5,10 +5,10 @@ This repository contains the manual testing plan, scenarios, and execution resul
 ## Objective ##
 ### The goal of this testing is to ensure: ###
 
-- 1.The functionality of the Sign Up and Login workflows is robust and error-free. 
-- 2.The user experience (UX) is intuitive and seamless. 
-- 3.Security measures are implemented to protect user data. 
-- 4.The app performs consistently across various platforms and environments. 
+- The functionality of the Sign Up and Login workflows is robust and error-free. 
+- The user experience (UX) is intuitive and seamless. 
+- Security measures are implemented to protect user data. 
+- The app performs consistently across various platforms and environments. 
 ## Test Plan ##
 ### Scope ###
 Features Tested:
